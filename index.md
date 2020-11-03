@@ -1,3 +1,6 @@
+---
+title: Server Down
+---
 <!DOCTYPE html>
 <html lang="en" class=" wxjfqpauy idc0_322">
 	<head>
